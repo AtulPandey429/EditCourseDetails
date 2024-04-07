@@ -3,8 +3,9 @@
 # Course Management App
 
 ## Deployment
-- I have deployed it at netlify below click on deployment i will redirect you 
-- The application is deployed and accessible a: [Deployment Link](https://6612faf2914aadf98c89c7c5--fluffy-haupia-39c3f7.netlify.app/)
+
+- I have deployed it on Netlify. Click on the following link to access the deployment:
+-  [Deployment Link](https://6612faf2914aadf98c89c7c5--fluffy-haupia-39c3f7.netlify.app/)
 
 
 # landing page
