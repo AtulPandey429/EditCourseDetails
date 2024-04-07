@@ -38,7 +38,7 @@ export default {
 # On click Upadte redirect to this 
 ![Course Management App Screenshot](editCourse.png)
 
-# After edit if we click save then it will look like this
+# After edit if we click save then it will look like this in console
 ![Course Management App Screenshot](console.png)
 
 This is a simple React application for managing courses, implemented using TypeScript and Material-UI.
