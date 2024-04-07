@@ -1,7 +1,13 @@
 # React + TypeScript + Vite
 
 # Course Management App
-#landing page
+
+## Deployment
+
+The application is deployed and accessible at: [Deployment Link](https://6612faf2914aadf98c89c7c5--fluffy-haupia-39c3f7.netlify.app/)
+
+
+# landing page
 
 ![Course Management App Screenshot](landing.png)
 
